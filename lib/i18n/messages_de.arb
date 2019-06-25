@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2019-06-24T16:11:26.242782",
+  "increment_btn_tooltip": "Heraufsetzen",
+  "@increment_btn_tooltip": {
+    "description": "Increment text for Screenreaders",
+    "type": "text",
+    "placeholders": {}
+  }
+}
